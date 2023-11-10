@@ -1,0 +1,15 @@
+
+
+.slider img {
+    width: 100%;
+}
+
+.slider-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.slider button {
+    border: none;
+    margin: 0 30px;
+}
